@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { css, keyframes } from '../../../../stitches.config';
-import { Label as LabelPrimitive } from '@radix-ui/react-label';
+import { Label as LabelPrimitive } from '@breatheHR/react-label';
 import { RECOMMENDED_CSS__LABEL__ROOT } from '../../label/src/Label.stories';
-import * as Checkbox from '@radix-ui/react-checkbox';
+import * as Checkbox from '@breatheHR/react-checkbox';
 
 export default { title: 'Components/Checkbox' };
 

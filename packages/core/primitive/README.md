@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/primitive
+$ yarn add @breatheHR/primitive
 # or
-$ npm install @radix-ui/primitive
+$ npm install @breatheHR/primitive
 ```
 
 ## Usage

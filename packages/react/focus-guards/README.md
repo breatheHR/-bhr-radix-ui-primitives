@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-focus-guards
+$ yarn add @breatheHR/react-focus-guards
 # or
-$ npm install @radix-ui/react-focus-guards
+$ npm install @breatheHR/react-focus-guards
 ```
 
 ## Usage

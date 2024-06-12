@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-use-size
+$ yarn add @breatheHR/react-use-size
 # or
-$ npm install @radix-ui/react-use-size
+$ npm install @breatheHR/react-use-size
 ```
 
 ## Usage

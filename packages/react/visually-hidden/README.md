@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-visually-hidden
+$ yarn add @breatheHR/react-visually-hidden
 # or
-$ npm install @radix-ui/react-visually-hidden
+$ npm install @breatheHR/react-visually-hidden
 ```
 
 ## Usage

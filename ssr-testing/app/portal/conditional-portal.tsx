@@ -1,7 +1,7 @@
 'use client';
 
 import * as React from 'react';
-import { Portal } from '@radix-ui/react-portal';
+import { Portal } from '@breatheHR/react-portal';
 
 export const ConditionalPortal = () => {
   const [container, setContainer] = React.useState<Element | null>(null);

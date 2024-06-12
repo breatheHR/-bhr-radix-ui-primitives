@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-form",
+  "name": "@breatheHR/react-form",
   "version": "0.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,12 +28,12 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-id": "workspace:*",
-    "@radix-ui/react-label": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-id": "workspace:*",
+    "@breatheHR/react-label": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

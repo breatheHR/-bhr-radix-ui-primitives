@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Slot, Slottable } from '@radix-ui/react-slot';
+import { Slot, Slottable } from '@breatheHR/react-slot';
 
 export default function Page() {
   return (

@@ -1,16 +1,16 @@
 import React from 'react';
-import { createContextScope } from '@radix-ui/react-context';
-import { createCollection } from '@radix-ui/react-collection';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { useControllableState } from '@radix-ui/react-use-controllable-state';
-import { Primitive } from '@radix-ui/react-primitive';
-import * as CollapsiblePrimitive from '@radix-ui/react-collapsible';
-import { createCollapsibleScope } from '@radix-ui/react-collapsible';
-import { useId } from '@radix-ui/react-id';
+import { createContextScope } from '@breatheHR/react-context';
+import { createCollection } from '@breatheHR/react-collection';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { useControllableState } from '@breatheHR/react-use-controllable-state';
+import { Primitive } from '@breatheHR/react-primitive';
+import * as CollapsiblePrimitive from '@breatheHR/react-collapsible';
+import { createCollapsibleScope } from '@breatheHR/react-collapsible';
+import { useId } from '@breatheHR/react-id';
 
-import type { Scope } from '@radix-ui/react-context';
-import { useDirection } from '@radix-ui/react-direction';
+import type { Scope } from '@breatheHR/react-context';
+import { useDirection } from '@breatheHR/react-direction';
 
 type Direction = 'ltr' | 'rtl';
 

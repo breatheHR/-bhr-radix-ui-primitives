@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-popper",
+  "name": "@breatheHR/react-popper",
   "version": "1.2.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,16 +28,16 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@floating-ui/react-dom": "^2.0.0",
-    "@radix-ui/react-arrow": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-callback-ref": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*",
-    "@radix-ui/react-use-rect": "workspace:*",
-    "@radix-ui/react-use-size": "workspace:*",
-    "@radix-ui/rect": "workspace:*"
+    "@breatheHR/react-arrow": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-callback-ref": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*",
+    "@breatheHR/react-use-rect": "workspace:*",
+    "@breatheHR/react-use-size": "workspace:*",
+    "@breatheHR/rect": "workspace:*",
+    "@floating-ui/react-dom": "^2.0.0"
   },
   "peerDependencies": {
     "@types/react": "*",

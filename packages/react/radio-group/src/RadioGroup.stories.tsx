@@ -1,9 +1,9 @@
 import * as React from 'react';
 import { css, keyframes } from '../../../../stitches.config';
-import { Label as LabelPrimitive } from '@radix-ui/react-label';
+import { Label as LabelPrimitive } from '@breatheHR/react-label';
 import { RECOMMENDED_CSS__LABEL__ROOT } from '../../label/src/Label.stories';
-import { DirectionProvider } from '@radix-ui/react-direction';
-import * as RadioGroup from '@radix-ui/react-radio-group';
+import { DirectionProvider } from '@breatheHR/react-direction';
+import * as RadioGroup from '@breatheHR/react-radio-group';
 
 export default { title: 'Components/RadioGroup' };
 

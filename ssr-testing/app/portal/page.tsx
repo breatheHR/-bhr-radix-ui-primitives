@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Portal } from '@radix-ui/react-portal';
+import { Portal } from '@breatheHR/react-portal';
 import { CustomPortalContainer } from './custom-portal-container';
 import { ConditionalPortal } from './conditional-portal';
 

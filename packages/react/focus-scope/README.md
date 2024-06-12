@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-focus-scope
+$ yarn add @breatheHR/react-focus-scope
 # or
-$ npm install @radix-ui/react-focus-scope
+$ npm install @breatheHR/react-focus-scope
 ```
 
 ## Usage

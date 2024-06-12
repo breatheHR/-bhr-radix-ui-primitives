@@ -1,7 +1,7 @@
 import * as React from 'react';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { useControllableState } from '@radix-ui/react-use-controllable-state';
-import { Primitive } from '@radix-ui/react-primitive';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { useControllableState } from '@breatheHR/react-use-controllable-state';
+import { Primitive } from '@breatheHR/react-primitive';
 
 /* -------------------------------------------------------------------------------------------------
  * Toggle

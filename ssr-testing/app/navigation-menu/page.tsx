@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as NavigationMenu from '@radix-ui/react-navigation-menu';
+import * as NavigationMenu from '@breatheHR/react-navigation-menu';
 
 export default function Page() {
   return (

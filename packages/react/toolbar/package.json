@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-toolbar",
+  "name": "@breatheHR/react-toolbar",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,13 +28,13 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-direction": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-roving-focus": "workspace:*",
-    "@radix-ui/react-separator": "workspace:*",
-    "@radix-ui/react-toggle-group": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-direction": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-roving-focus": "workspace:*",
+    "@breatheHR/react-separator": "workspace:*",
+    "@breatheHR/react-toggle-group": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

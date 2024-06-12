@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as ToggleGroup from '@radix-ui/react-toggle-group';
+import * as ToggleGroup from '@breatheHR/react-toggle-group';
 
 export default function Page() {
   return (

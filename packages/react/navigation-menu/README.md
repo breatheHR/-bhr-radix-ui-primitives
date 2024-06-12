@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-navigation-menu
+$ yarn add @breatheHR/react-navigation-menu
 # or
-$ npm install @radix-ui/react-navigation-menu
+$ npm install @breatheHR/react-navigation-menu
 ```
 
 ## Usage

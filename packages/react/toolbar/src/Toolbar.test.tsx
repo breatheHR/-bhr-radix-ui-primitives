@@ -1,5 +1,5 @@
 import { render, fireEvent, getByText } from '@testing-library/react';
-import * as Toolbar from '@radix-ui/react-toolbar';
+import * as Toolbar from '@breatheHR/react-toolbar';
 
 const component = (props: any) => {
   return render(

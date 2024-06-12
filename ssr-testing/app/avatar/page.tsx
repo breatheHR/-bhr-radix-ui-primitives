@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as Avatar from '@radix-ui/react-avatar';
+import * as Avatar from '@breatheHR/react-avatar';
 
 export default function Page() {
   return (

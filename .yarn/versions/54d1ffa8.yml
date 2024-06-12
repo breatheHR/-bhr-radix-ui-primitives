@@ -1,8 +1,8 @@
 releases:
-  "@radix-ui/react-context-menu": patch
-  "@radix-ui/react-dropdown-menu": patch
-  "@radix-ui/react-menu": patch
-  "@radix-ui/react-menubar": patch
+  "@breatheHR/react-context-menu": patch
+  "@breatheHR/react-dropdown-menu": patch
+  "@breatheHR/react-menu": patch
+  "@breatheHR/react-menubar": patch
 
 declined:
   - primitives

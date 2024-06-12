@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-focus-scope",
+  "name": "@breatheHR/react-focus-scope",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,9 +28,9 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-callback-ref": "workspace:*"
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-callback-ref": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

@@ -1,4 +1,4 @@
-import { Arrow } from '@radix-ui/react-arrow';
+import { Arrow } from '@breatheHR/react-arrow';
 
 export default { title: 'Utilities/Arrow' };
 

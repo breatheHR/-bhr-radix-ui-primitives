@@ -1,8 +1,8 @@
 import * as React from 'react';
-import { createContextScope } from '@radix-ui/react-context';
-import { Primitive } from '@radix-ui/react-primitive';
+import { createContextScope } from '@breatheHR/react-context';
+import { Primitive } from '@breatheHR/react-primitive';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 /* -------------------------------------------------------------------------------------------------
  * Progress

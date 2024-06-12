@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-dialog
+$ yarn add @breatheHR/react-dialog
 # or
-$ npm install @radix-ui/react-dialog
+$ npm install @breatheHR/react-dialog
 ```
 
 ## Usage

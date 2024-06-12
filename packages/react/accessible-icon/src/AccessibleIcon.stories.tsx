@@ -1,4 +1,4 @@
-import { AccessibleIcon } from '@radix-ui/react-accessible-icon';
+import { AccessibleIcon } from '@breatheHR/react-accessible-icon';
 
 export default { title: 'Utilities/AccessibleIcon' };
 

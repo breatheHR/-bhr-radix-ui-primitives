@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-tabs
+$ yarn add @breatheHR/react-tabs
 # or
-$ npm install @radix-ui/react-tabs
+$ npm install @breatheHR/react-tabs
 ```
 
 ## Usage

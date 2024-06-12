@@ -1,6 +1,6 @@
 releases:
-  "@radix-ui/react-form": patch
-  "@radix-ui/react-label": patch
+  "@breatheHR/react-form": patch
+  "@breatheHR/react-label": patch
 
 declined:
   - primitives

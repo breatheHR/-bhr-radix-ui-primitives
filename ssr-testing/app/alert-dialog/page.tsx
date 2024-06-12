@@ -9,7 +9,7 @@ import {
   AlertDialogAction,
   AlertDialogCancel,
   AlertDialogPortal,
-} from '@radix-ui/react-alert-dialog';
+} from '@breatheHR/react-alert-dialog';
 
 export default function Page() {
   return (

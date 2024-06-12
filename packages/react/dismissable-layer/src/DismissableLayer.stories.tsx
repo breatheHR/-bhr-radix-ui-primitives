@@ -2,13 +2,13 @@
 
 import * as React from 'react';
 import * as ReactDOM from 'react-dom/client';
-import { FocusScope } from '@radix-ui/react-focus-scope';
-import * as Popper from '@radix-ui/react-popper';
-import { Portal } from '@radix-ui/react-portal';
-import { FocusGuards } from '@radix-ui/react-focus-guards';
+import { FocusScope } from '@breatheHR/react-focus-scope';
+import * as Popper from '@breatheHR/react-popper';
+import { Portal } from '@breatheHR/react-portal';
+import { FocusGuards } from '@breatheHR/react-focus-guards';
 import { RemoveScroll } from 'react-remove-scroll';
-import { DismissableLayer } from '@radix-ui/react-dismissable-layer';
-import { Slot } from '@radix-ui/react-slot';
+import { DismissableLayer } from '@breatheHR/react-dismissable-layer';
+import { Slot } from '@breatheHR/react-slot';
 
 type DismissableLayerProps = React.ComponentProps<typeof DismissableLayer>;
 type FocusScopeProps = React.ComponentProps<typeof FocusScope>;

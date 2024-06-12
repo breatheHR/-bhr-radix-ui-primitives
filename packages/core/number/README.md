@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/number
+$ yarn add @breatheHR/number
 # or
-$ npm install @radix-ui/number
+$ npm install @breatheHR/number
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as VisuallyHiddenPrimitive from '@radix-ui/react-visually-hidden';
+import * as VisuallyHiddenPrimitive from '@breatheHR/react-visually-hidden';
 
 const NAME = 'AccessibleIcon';
 

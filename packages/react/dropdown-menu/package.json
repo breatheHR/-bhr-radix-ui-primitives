@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-dropdown-menu",
+  "name": "@breatheHR/react-dropdown-menu",
   "version": "2.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,13 +28,13 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-id": "workspace:*",
-    "@radix-ui/react-menu": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-id": "workspace:*",
+    "@breatheHR/react-menu": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

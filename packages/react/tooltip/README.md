@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-tooltip
+$ yarn add @breatheHR/react-tooltip
 # or
-$ npm install @radix-ui/react-tooltip
+$ npm install @breatheHR/react-tooltip
 ```
 
 ## Usage

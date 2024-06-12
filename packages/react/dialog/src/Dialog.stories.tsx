@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { css, keyframes } from '../../../../stitches.config';
-import * as Dialog from '@radix-ui/react-dialog';
+import * as Dialog from '@breatheHR/react-dialog';
 
 export default { title: 'Components/Dialog' };
 

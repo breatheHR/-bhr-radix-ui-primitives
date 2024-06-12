@@ -1,5 +1,5 @@
 import { css } from '../../../../stitches.config';
-import * as Avatar from '@radix-ui/react-avatar';
+import * as Avatar from '@breatheHR/react-avatar';
 
 export default { title: 'Components/Avatar' };
 

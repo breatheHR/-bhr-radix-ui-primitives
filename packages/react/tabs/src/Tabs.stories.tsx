@@ -1,6 +1,6 @@
-import { DirectionProvider } from '@radix-ui/react-direction';
+import { DirectionProvider } from '@breatheHR/react-direction';
 import { css, keyframes } from '../../../../stitches.config';
-import * as Tabs from '@radix-ui/react-tabs';
+import * as Tabs from '@breatheHR/react-tabs';
 
 export default { title: 'Components/Tabs' };
 

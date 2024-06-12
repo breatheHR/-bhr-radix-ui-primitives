@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as Toast from '@radix-ui/react-toast';
+import * as Toast from '@breatheHR/react-toast';
 
 export default function Page() {
   return (

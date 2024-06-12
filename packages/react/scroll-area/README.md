@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-scroll-area
+$ yarn add @breatheHR/react-scroll-area
 # or
-$ npm install @radix-ui/react-scroll-area
+$ npm install @breatheHR/react-scroll-area
 ```
 
 ## Usage

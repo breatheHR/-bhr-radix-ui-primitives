@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-id
+$ yarn add @breatheHR/react-id
 # or
-$ npm install @radix-ui/react-id
+$ npm install @breatheHR/react-id
 ```
 
 ## Usage

@@ -1,6 +1,6 @@
 import * as React from 'react';
-import * as RadioGroup from '@radix-ui/react-radio-group';
-import { Label } from '@radix-ui/react-label';
+import * as RadioGroup from '@breatheHR/react-radio-group';
+import { Label } from '@breatheHR/react-label';
 
 export default function Page() {
   return (

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { Root, Track, Range, Thumb } from '@radix-ui/react-slider';
+import { Root, Track, Range, Thumb } from '@breatheHR/react-slider';
 
 export default function Page() {
   return (

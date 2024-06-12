@@ -1,13 +1,13 @@
 releases:
-  "@radix-ui/react-context-menu": patch
-  "@radix-ui/react-dropdown-menu": patch
-  "@radix-ui/react-menu": patch
-  "@radix-ui/react-menubar": patch
-  "@radix-ui/react-radio-group": patch
-  "@radix-ui/react-roving-focus": patch
-  "@radix-ui/react-tabs": patch
-  "@radix-ui/react-toggle-group": patch
-  "@radix-ui/react-toolbar": patch
+  "@breatheHR/react-context-menu": patch
+  "@breatheHR/react-dropdown-menu": patch
+  "@breatheHR/react-menu": patch
+  "@breatheHR/react-menubar": patch
+  "@breatheHR/react-radio-group": patch
+  "@breatheHR/react-roving-focus": patch
+  "@breatheHR/react-tabs": patch
+  "@breatheHR/react-toggle-group": patch
+  "@breatheHR/react-toolbar": patch
 
 declined:
   - primitives

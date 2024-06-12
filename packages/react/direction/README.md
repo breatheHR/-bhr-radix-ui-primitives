@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-direction
+$ yarn add @breatheHR/react-direction
 # or
-$ npm install @radix-ui/react-direction
+$ npm install @breatheHR/react-direction
 ```
 
 ## Usage

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as HoverCard from '@radix-ui/react-hover-card';
+import * as HoverCard from '@breatheHR/react-hover-card';
 
 export default function Page() {
   return (

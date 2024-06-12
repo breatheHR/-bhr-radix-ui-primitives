@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-arrow
+$ yarn add @breatheHR/react-arrow
 # or
-$ npm install @radix-ui/react-arrow
+$ npm install @breatheHR/react-arrow
 ```
 
 ## Usage

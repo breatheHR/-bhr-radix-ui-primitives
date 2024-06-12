@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-form
+$ yarn add @breatheHR/react-form
 # or
-$ npm install @radix-ui/react-form
+$ npm install @breatheHR/react-form
 ```
 
 ## Usage

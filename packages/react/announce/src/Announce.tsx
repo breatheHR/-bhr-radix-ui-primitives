@@ -1,8 +1,8 @@
 import * as React from 'react';
 import ReactDOM from 'react-dom';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { Primitive } from '@radix-ui/react-primitive';
-import { useLayoutEffect } from '@radix-ui/react-use-layout-effect';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { Primitive } from '@breatheHR/react-primitive';
+import { useLayoutEffect } from '@breatheHR/react-use-layout-effect';
 
 type RegionType = 'polite' | 'assertive' | 'off';
 type RegionRole = 'status' | 'alert' | 'log' | 'none';

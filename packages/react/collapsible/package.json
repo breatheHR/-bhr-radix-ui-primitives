@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-collapsible",
+  "name": "@breatheHR/react-collapsible",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,14 +28,14 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-id": "workspace:*",
-    "@radix-ui/react-presence": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-id": "workspace:*",
+    "@breatheHR/react-presence": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

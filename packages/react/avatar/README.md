@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-avatar
+$ yarn add @breatheHR/react-avatar
 # or
-$ npm install @radix-ui/react-avatar
+$ npm install @breatheHR/react-avatar
 ```
 
 ## Usage

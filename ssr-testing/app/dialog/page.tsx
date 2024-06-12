@@ -8,7 +8,7 @@ import {
   DialogOverlay,
   DialogContent,
   DialogClose,
-} from '@radix-ui/react-dialog';
+} from '@breatheHR/react-dialog';
 
 export default function Page() {
   return (

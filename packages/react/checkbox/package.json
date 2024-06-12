@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-checkbox",
+  "name": "@breatheHR/react-checkbox",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,14 +28,14 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-presence": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*",
-    "@radix-ui/react-use-previous": "workspace:*",
-    "@radix-ui/react-use-size": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-presence": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*",
+    "@breatheHR/react-use-previous": "workspace:*",
+    "@breatheHR/react-use-size": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

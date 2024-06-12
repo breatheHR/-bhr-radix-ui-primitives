@@ -1,8 +1,8 @@
 import * as React from 'react';
 import { css, keyframes } from '../../../../stitches.config';
-import * as Dialog from '@radix-ui/react-dialog';
-import { SIDE_OPTIONS, ALIGN_OPTIONS } from '@radix-ui/react-popper';
-import * as HoverCard from '@radix-ui/react-hover-card';
+import * as Dialog from '@breatheHR/react-dialog';
+import { SIDE_OPTIONS, ALIGN_OPTIONS } from '@breatheHR/react-popper';
+import * as HoverCard from '@breatheHR/react-hover-card';
 
 export default { title: 'Components/HoverCard' };
 

@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as ContextMenu from '@radix-ui/react-context-menu';
+import * as ContextMenu from '@breatheHR/react-context-menu';
 
 export default function Page() {
   return (

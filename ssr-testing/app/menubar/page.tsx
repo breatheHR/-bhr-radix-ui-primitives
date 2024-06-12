@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as Menubar from '@radix-ui/react-menubar';
+import * as Menubar from '@breatheHR/react-menubar';
 
 export default function Page() {
   return (

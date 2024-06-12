@@ -1,6 +1,6 @@
 import * as React from 'react';
 import { css } from '../../../../stitches.config';
-import * as Progress from '@radix-ui/react-progress';
+import * as Progress from '@breatheHR/react-progress';
 
 export default {
   title: 'Components/Progress',

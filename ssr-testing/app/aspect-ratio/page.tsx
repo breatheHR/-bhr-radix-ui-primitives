@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { AspectRatio } from '@radix-ui/react-aspect-ratio';
+import { AspectRatio } from '@breatheHR/react-aspect-ratio';
 
 export default function Page() {
   return (

@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-toggle",
+  "name": "@breatheHR/react-toggle",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,9 +28,9 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

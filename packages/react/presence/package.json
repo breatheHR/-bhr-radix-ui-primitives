@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-presence",
+  "name": "@breatheHR/react-presence",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,8 +28,8 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*"
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

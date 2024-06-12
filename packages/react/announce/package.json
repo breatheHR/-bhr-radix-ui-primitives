@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-announce",
+  "name": "@breatheHR/react-announce",
   "version": "0.2.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,9 +28,9 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*"
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

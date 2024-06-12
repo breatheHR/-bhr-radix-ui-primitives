@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as Progress from '@radix-ui/react-progress';
+import * as Progress from '@breatheHR/react-progress';
 
 export default function Page() {
   return (

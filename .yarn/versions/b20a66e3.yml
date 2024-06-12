@@ -1,5 +1,5 @@
 releases:
-  "@radix-ui/react-slider": minor
+  "@breatheHR/react-slider": minor
 
 declined:
   - primitives

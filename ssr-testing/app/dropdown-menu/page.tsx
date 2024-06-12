@@ -7,7 +7,7 @@ import {
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuArrow,
-} from '@radix-ui/react-dropdown-menu';
+} from '@breatheHR/react-dropdown-menu';
 
 export default function Page() {
   return (

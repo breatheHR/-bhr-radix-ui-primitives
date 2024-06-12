@@ -1,12 +1,12 @@
 import * as React from 'react';
-import { createContextScope } from '@radix-ui/react-context';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import * as DialogPrimitive from '@radix-ui/react-dialog';
-import { createDialogScope } from '@radix-ui/react-dialog';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { Slottable } from '@radix-ui/react-slot';
+import { createContextScope } from '@breatheHR/react-context';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import * as DialogPrimitive from '@breatheHR/react-dialog';
+import { createDialogScope } from '@breatheHR/react-dialog';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { Slottable } from '@breatheHR/react-slot';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 /* -------------------------------------------------------------------------------------------------
  * AlertDialog
@@ -246,7 +246,7 @@ const DescriptionWarning: React.FC<DescriptionWarningProps> = ({ contentRef }) =
 
 You can add a description to the \`${CONTENT_NAME}\` by passing a \`${DESCRIPTION_NAME}\` component as a child, which also benefits sighted users by adding visible context to the dialog.
 
-Alternatively, you can use your own component as a description by assigning it an \`id\` and passing the same value to the \`aria-describedby\` prop in \`${CONTENT_NAME}\`. If the description is confusing or duplicative for sighted users, you can use the \`@radix-ui/react-visually-hidden\` primitive as a wrapper around your description component.
+Alternatively, you can use your own component as a description by assigning it an \`id\` and passing the same value to the \`aria-describedby\` prop in \`${CONTENT_NAME}\`. If the description is confusing or duplicative for sighted users, you can use the \`@breatheHR/react-visually-hidden\` primitive as a wrapper around your description component.
 
 For more information, see https://radix-ui.com/primitives/docs/components/alert-dialog`;
 

@@ -1,16 +1,16 @@
 import * as React from 'react';
-import { clamp } from '@radix-ui/number';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { createContextScope } from '@radix-ui/react-context';
-import { useControllableState } from '@radix-ui/react-use-controllable-state';
-import { useDirection } from '@radix-ui/react-direction';
-import { usePrevious } from '@radix-ui/react-use-previous';
-import { useSize } from '@radix-ui/react-use-size';
-import { Primitive } from '@radix-ui/react-primitive';
-import { createCollection } from '@radix-ui/react-collection';
+import { clamp } from '@breatheHR/number';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { createContextScope } from '@breatheHR/react-context';
+import { useControllableState } from '@breatheHR/react-use-controllable-state';
+import { useDirection } from '@breatheHR/react-direction';
+import { usePrevious } from '@breatheHR/react-use-previous';
+import { useSize } from '@breatheHR/react-use-size';
+import { Primitive } from '@breatheHR/react-primitive';
+import { createCollection } from '@breatheHR/react-collection';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 type Direction = 'ltr' | 'rtl';
 

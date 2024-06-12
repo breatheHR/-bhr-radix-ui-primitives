@@ -1,5 +1,5 @@
 import * as React from 'react';
-import * as Checkbox from '@radix-ui/react-checkbox';
+import * as Checkbox from '@breatheHR/react-checkbox';
 
 export default function Page() {
   return (

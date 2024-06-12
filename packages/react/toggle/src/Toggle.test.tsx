@@ -1,6 +1,6 @@
 import type { RenderResult } from '@testing-library/react';
 import { fireEvent, render } from '@testing-library/react';
-import * as Toggle from '@radix-ui/react-toggle';
+import * as Toggle from '@breatheHR/react-toggle';
 import { axe } from 'jest-axe';
 
 const TEXT_CHILD = 'Like';

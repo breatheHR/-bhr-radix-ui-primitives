@@ -8,7 +8,7 @@ async function build(path) {
 
   const esbuildConfig = {
     entryPoints: [file],
-    external: ['@radix-ui/*'],
+    external: ['@breatheHR/*'],
     packages: 'external',
     bundle: true,
     sourcemap: true,

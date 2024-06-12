@@ -1,5 +1,5 @@
 import * as React from 'react';
-import { AccessibleIcon } from '@radix-ui/react-accessible-icon';
+import { AccessibleIcon } from '@breatheHR/react-accessible-icon';
 
 export default function Page() {
   return (

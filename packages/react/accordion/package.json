@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-accordion",
+  "name": "@breatheHR/react-accordion",
   "version": "1.2.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,15 +28,15 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-collapsible": "workspace:*",
-    "@radix-ui/react-collection": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-direction": "workspace:*",
-    "@radix-ui/react-id": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-collapsible": "workspace:*",
+    "@breatheHR/react-collection": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-direction": "workspace:*",
+    "@breatheHR/react-id": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

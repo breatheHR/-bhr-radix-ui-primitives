@@ -1,18 +1,18 @@
 /// <reference types="resize-observer-browser" />
 
 import * as React from 'react';
-import { Primitive } from '@radix-ui/react-primitive';
-import { Presence } from '@radix-ui/react-presence';
-import { createContextScope } from '@radix-ui/react-context';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { useCallbackRef } from '@radix-ui/react-use-callback-ref';
-import { useDirection } from '@radix-ui/react-direction';
-import { useLayoutEffect } from '@radix-ui/react-use-layout-effect';
-import { clamp } from '@radix-ui/number';
-import { composeEventHandlers } from '@radix-ui/primitive';
+import { Primitive } from '@breatheHR/react-primitive';
+import { Presence } from '@breatheHR/react-presence';
+import { createContextScope } from '@breatheHR/react-context';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { useCallbackRef } from '@breatheHR/react-use-callback-ref';
+import { useDirection } from '@breatheHR/react-direction';
+import { useLayoutEffect } from '@breatheHR/react-use-layout-effect';
+import { clamp } from '@breatheHR/number';
+import { composeEventHandlers } from '@breatheHR/primitive';
 import { useStateMachine } from './useStateMachine';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 type Direction = 'ltr' | 'rtl';
 type Sizes = {

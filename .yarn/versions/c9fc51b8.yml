@@ -1,5 +1,5 @@
 releases:
-  "@radix-ui/react-progress": minor
+  "@breatheHR/react-progress": minor
 
 declined:
   - primitives

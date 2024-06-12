@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-scroll-area",
+  "name": "@breatheHR/react-scroll-area",
   "version": "1.1.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,15 +28,15 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/number": "workspace:*",
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-direction": "workspace:*",
-    "@radix-ui/react-presence": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-callback-ref": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*"
+    "@breatheHR/number": "workspace:*",
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-direction": "workspace:*",
+    "@breatheHR/react-presence": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-callback-ref": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*"
   },
   "devDependencies": {
     "@types/resize-observer-browser": "^0.1.4"

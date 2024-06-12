@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-portal
+$ yarn add @breatheHR/react-portal
 # or
-$ npm install @radix-ui/react-portal
+$ npm install @breatheHR/react-portal
 ```
 
 ## Usage

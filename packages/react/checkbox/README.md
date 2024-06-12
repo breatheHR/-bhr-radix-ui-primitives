@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-checkbox
+$ yarn add @breatheHR/react-checkbox
 # or
-$ npm install @radix-ui/react-checkbox
+$ npm install @breatheHR/react-checkbox
 ```
 
 ## Usage

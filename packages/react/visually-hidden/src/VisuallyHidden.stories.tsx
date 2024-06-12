@@ -1,4 +1,4 @@
-import { VisuallyHidden } from '@radix-ui/react-visually-hidden';
+import { VisuallyHidden } from '@breatheHR/react-visually-hidden';
 
 export default { title: 'Utilities/VisuallyHidden' };
 

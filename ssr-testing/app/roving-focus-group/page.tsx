@@ -1,7 +1,7 @@
 'use client';
 import * as React from 'react';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import * as RovingFocusGroup from '@radix-ui/react-roving-focus';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import * as RovingFocusGroup from '@breatheHR/react-roving-focus';
 
 type RovingFocusGroupProps = React.ComponentProps<typeof RovingFocusGroup.Root>;
 

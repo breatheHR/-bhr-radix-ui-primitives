@@ -1,7 +1,7 @@
 import React from 'react';
-import { createContextScope } from '@radix-ui/react-context';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { Slot } from '@radix-ui/react-slot';
+import { createContextScope } from '@breatheHR/react-context';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { Slot } from '@breatheHR/react-slot';
 
 type SlotProps = React.ComponentPropsWithoutRef<typeof Slot>;
 type CollectionElement = HTMLElement;

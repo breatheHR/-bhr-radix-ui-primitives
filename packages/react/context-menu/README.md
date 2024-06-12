@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-context-menu
+$ yarn add @breatheHR/react-context-menu
 # or
-$ npm install @radix-ui/react-context-menu
+$ npm install @breatheHR/react-context-menu
 ```
 
 ## Usage

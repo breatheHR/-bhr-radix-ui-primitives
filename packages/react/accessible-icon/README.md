@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-accessible-icon
+$ yarn add @breatheHR/react-accessible-icon
 # or
-$ npm install @radix-ui/react-accessible-icon
+$ npm install @breatheHR/react-accessible-icon
 ```
 
 ## Usage

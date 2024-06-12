@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-toast",
+  "name": "@breatheHR/react-toast",
   "version": "1.2.0-rc.6",
   "license": "MIT",
   "exports": {
@@ -28,18 +28,18 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-collection": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-dismissable-layer": "workspace:*",
-    "@radix-ui/react-portal": "workspace:*",
-    "@radix-ui/react-presence": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-callback-ref": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*",
-    "@radix-ui/react-visually-hidden": "workspace:*"
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-collection": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-dismissable-layer": "workspace:*",
+    "@breatheHR/react-portal": "workspace:*",
+    "@breatheHR/react-presence": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-callback-ref": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*",
+    "@breatheHR/react-visually-hidden": "workspace:*"
   },
   "peerDependencies": {
     "@types/react": "*",

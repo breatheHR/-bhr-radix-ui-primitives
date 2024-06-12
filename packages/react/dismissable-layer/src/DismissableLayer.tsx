@@ -1,9 +1,9 @@
 import * as React from 'react';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { Primitive, dispatchDiscreteCustomEvent } from '@radix-ui/react-primitive';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { useCallbackRef } from '@radix-ui/react-use-callback-ref';
-import { useEscapeKeydown } from '@radix-ui/react-use-escape-keydown';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { Primitive, dispatchDiscreteCustomEvent } from '@breatheHR/react-primitive';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { useCallbackRef } from '@breatheHR/react-use-callback-ref';
+import { useEscapeKeydown } from '@breatheHR/react-use-escape-keydown';
 
 /* -------------------------------------------------------------------------------------------------
  * DismissableLayer

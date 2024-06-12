@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-select
+$ yarn add @breatheHR/react-select
 # or
-$ npm install @radix-ui/react-select
+$ npm install @breatheHR/react-select
 ```
 
 ## Usage

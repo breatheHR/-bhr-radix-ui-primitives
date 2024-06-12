@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-use-rect
+$ yarn add @breatheHR/react-use-rect
 # or
-$ npm install @radix-ui/react-use-rect
+$ npm install @breatheHR/react-use-rect
 ```
 
 ## Usage

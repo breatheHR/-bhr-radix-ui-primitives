@@ -1,5 +1,5 @@
 {
-  "name": "@radix-ui/react-slider",
+  "name": "@breatheHR/react-slider",
   "version": "1.2.0-rc.9",
   "license": "MIT",
   "exports": {
@@ -28,17 +28,17 @@
     "version": "yarn version"
   },
   "dependencies": {
-    "@radix-ui/number": "workspace:*",
-    "@radix-ui/primitive": "workspace:*",
-    "@radix-ui/react-collection": "workspace:*",
-    "@radix-ui/react-compose-refs": "workspace:*",
-    "@radix-ui/react-context": "workspace:*",
-    "@radix-ui/react-direction": "workspace:*",
-    "@radix-ui/react-primitive": "workspace:*",
-    "@radix-ui/react-use-controllable-state": "workspace:*",
-    "@radix-ui/react-use-layout-effect": "workspace:*",
-    "@radix-ui/react-use-previous": "workspace:*",
-    "@radix-ui/react-use-size": "workspace:*"
+    "@breatheHR/number": "workspace:*",
+    "@breatheHR/primitive": "workspace:*",
+    "@breatheHR/react-collection": "workspace:*",
+    "@breatheHR/react-compose-refs": "workspace:*",
+    "@breatheHR/react-context": "workspace:*",
+    "@breatheHR/react-direction": "workspace:*",
+    "@breatheHR/react-primitive": "workspace:*",
+    "@breatheHR/react-use-controllable-state": "workspace:*",
+    "@breatheHR/react-use-layout-effect": "workspace:*",
+    "@breatheHR/react-use-previous": "workspace:*",
+    "@breatheHR/react-use-size": "workspace:*"
   },
   "devDependencies": {
     "@types/form-serialize": "^0",

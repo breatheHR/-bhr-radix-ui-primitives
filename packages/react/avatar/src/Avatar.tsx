@@ -1,10 +1,10 @@
 import * as React from 'react';
-import { createContextScope } from '@radix-ui/react-context';
-import { useCallbackRef } from '@radix-ui/react-use-callback-ref';
-import { useLayoutEffect } from '@radix-ui/react-use-layout-effect';
-import { Primitive } from '@radix-ui/react-primitive';
+import { createContextScope } from '@breatheHR/react-context';
+import { useCallbackRef } from '@breatheHR/react-use-callback-ref';
+import { useLayoutEffect } from '@breatheHR/react-use-layout-effect';
+import { Primitive } from '@breatheHR/react-primitive';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 /* -------------------------------------------------------------------------------------------------
  * Avatar

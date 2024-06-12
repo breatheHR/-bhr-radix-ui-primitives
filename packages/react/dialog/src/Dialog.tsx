@@ -1,20 +1,20 @@
 import * as React from 'react';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { createContext, createContextScope } from '@radix-ui/react-context';
-import { useId } from '@radix-ui/react-id';
-import { useControllableState } from '@radix-ui/react-use-controllable-state';
-import { DismissableLayer } from '@radix-ui/react-dismissable-layer';
-import { FocusScope } from '@radix-ui/react-focus-scope';
-import { Portal as PortalPrimitive } from '@radix-ui/react-portal';
-import { Presence } from '@radix-ui/react-presence';
-import { Primitive } from '@radix-ui/react-primitive';
-import { useFocusGuards } from '@radix-ui/react-focus-guards';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { createContext, createContextScope } from '@breatheHR/react-context';
+import { useId } from '@breatheHR/react-id';
+import { useControllableState } from '@breatheHR/react-use-controllable-state';
+import { DismissableLayer } from '@breatheHR/react-dismissable-layer';
+import { FocusScope } from '@breatheHR/react-focus-scope';
+import { Portal as PortalPrimitive } from '@breatheHR/react-portal';
+import { Presence } from '@breatheHR/react-presence';
+import { Primitive } from '@breatheHR/react-primitive';
+import { useFocusGuards } from '@breatheHR/react-focus-guards';
 import { RemoveScroll } from 'react-remove-scroll';
 import { hideOthers } from 'aria-hidden';
-import { Slot } from '@radix-ui/react-slot';
+import { Slot } from '@breatheHR/react-slot';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 /* -------------------------------------------------------------------------------------------------
  * Dialog

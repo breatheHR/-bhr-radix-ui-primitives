@@ -1,9 +1,9 @@
-import { DirectionProvider } from '@radix-ui/react-direction';
+import { DirectionProvider } from '@breatheHR/react-direction';
 import { css } from '../../../../stitches.config';
-import * as DropdownMenu from '@radix-ui/react-dropdown-menu';
+import * as DropdownMenu from '@breatheHR/react-dropdown-menu';
 import { classes } from '../../menu/src/Menu.stories';
-import { Toggle } from '@radix-ui/react-toggle';
-import * as Toolbar from '@radix-ui/react-toolbar';
+import { Toggle } from '@breatheHR/react-toggle';
+import * as Toolbar from '@breatheHR/react-toolbar';
 
 const { contentClass: dropdownMenuContentClass, itemClass: dropdownMenuItemClass } = classes;
 

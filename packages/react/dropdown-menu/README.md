@@ -3,9 +3,9 @@
 ## Installation
 
 ```sh
-$ yarn add @radix-ui/react-dropdown-menu
+$ yarn add @breatheHR/react-dropdown-menu
 # or
-$ npm install @radix-ui/react-dropdown-menu
+$ npm install @breatheHR/react-dropdown-menu
 ```
 
 ## Usage

@@ -1,19 +1,19 @@
 import * as React from 'react';
-import { composeEventHandlers } from '@radix-ui/primitive';
-import { useComposedRefs } from '@radix-ui/react-compose-refs';
-import { createContextScope } from '@radix-ui/react-context';
-import { DismissableLayer } from '@radix-ui/react-dismissable-layer';
-import { useId } from '@radix-ui/react-id';
-import * as PopperPrimitive from '@radix-ui/react-popper';
-import { createPopperScope } from '@radix-ui/react-popper';
-import { Portal as PortalPrimitive } from '@radix-ui/react-portal';
-import { Presence } from '@radix-ui/react-presence';
-import { Primitive } from '@radix-ui/react-primitive';
-import { Slottable } from '@radix-ui/react-slot';
-import { useControllableState } from '@radix-ui/react-use-controllable-state';
-import * as VisuallyHiddenPrimitive from '@radix-ui/react-visually-hidden';
+import { composeEventHandlers } from '@breatheHR/primitive';
+import { useComposedRefs } from '@breatheHR/react-compose-refs';
+import { createContextScope } from '@breatheHR/react-context';
+import { DismissableLayer } from '@breatheHR/react-dismissable-layer';
+import { useId } from '@breatheHR/react-id';
+import * as PopperPrimitive from '@breatheHR/react-popper';
+import { createPopperScope } from '@breatheHR/react-popper';
+import { Portal as PortalPrimitive } from '@breatheHR/react-portal';
+import { Presence } from '@breatheHR/react-presence';
+import { Primitive } from '@breatheHR/react-primitive';
+import { Slottable } from '@breatheHR/react-slot';
+import { useControllableState } from '@breatheHR/react-use-controllable-state';
+import * as VisuallyHiddenPrimitive from '@breatheHR/react-visually-hidden';
 
-import type { Scope } from '@radix-ui/react-context';
+import type { Scope } from '@breatheHR/react-context';
 
 type ScopedProps<P = {}> = P & { __scopeTooltip?: Scope };
 const [createTooltipContext, createTooltipScope] = createContextScope('Tooltip', [
