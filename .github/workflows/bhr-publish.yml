@@ -1,0 +1,24 @@
+name: Build and publish npm package
+
+on:
+  push:
+    branches:
+      - release
+
+jobs:
+  build-and-publish:
+    name: Build + Publish to GPR
+    runs-on: ubuntu-latest
+    permissions:
+      packages: write
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 'v18.17.1'
+          registry-url: https://npm.pkg.github.com/
+      - run: yarn install
+      - run: yarn publish:next
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

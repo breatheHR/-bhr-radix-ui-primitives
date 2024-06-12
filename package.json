@@ -1,12 +1,14 @@
 {
-  "private": true,
-  "name": "primitives",
+  "name": "@breatheHR/bhr-radix-ui-primitives",
   "version": "0.0.0",
   "license": "MIT",
   "workspaces": [
     "ssr-testing",
     "packages/*/*"
   ],
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "scripts": {
     "lint": "eslint packages --ext .js,.ts,.tsx",
     "types:check": "tsc --skipLibCheck --noEmit",
