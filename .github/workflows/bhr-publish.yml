@@ -19,6 +19,6 @@ jobs:
           node-version: 'v18.17.1'
           registry-url: https://npm.pkg.github.com/
       - run: yarn install
-      - run: yarn publish:next
+      - run: yarn bump:next && yarn clean && yarn build && yarn workspaces foreach -pvW --exclude primitives --exclude ssr-testing npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
