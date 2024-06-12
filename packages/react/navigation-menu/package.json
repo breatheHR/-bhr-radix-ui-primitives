@@ -1,5 +1,8 @@
 {
   "name": "@breatheHR/react-navigation-menu",
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "version": "1.2.0-rc.6",
   "license": "MIT",
   "exports": {

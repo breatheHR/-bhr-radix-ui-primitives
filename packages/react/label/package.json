@@ -1,5 +1,8 @@
 {
   "name": "@breatheHR/react-label",
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "version": "2.1.0-rc.6",
   "license": "MIT",
   "exports": {

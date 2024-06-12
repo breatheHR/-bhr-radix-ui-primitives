@@ -1,5 +1,8 @@
 {
   "name": "@breatheHR/react-announce",
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "version": "0.2.0-rc.6",
   "license": "MIT",
   "exports": {

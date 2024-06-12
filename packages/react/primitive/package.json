@@ -1,5 +1,8 @@
 {
   "name": "@breatheHR/react-primitive",
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "version": "2.0.0-rc.3",
   "license": "MIT",
   "exports": {

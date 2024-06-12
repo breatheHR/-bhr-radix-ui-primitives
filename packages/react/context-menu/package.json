@@ -1,5 +1,8 @@
 {
   "name": "@breatheHR/react-context-menu",
+  "publishConfig": {
+    "@breatheHR:registry": "https://npm.pkg.github.com"
+  },
   "version": "2.2.0-rc.6",
   "license": "MIT",
   "exports": {
